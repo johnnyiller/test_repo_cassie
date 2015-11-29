@@ -1,5 +1,5 @@
 class TestClass
   def to_s
-    "great string"
+    "a not so great string"
   end
 end
