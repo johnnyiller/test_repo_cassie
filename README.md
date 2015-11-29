@@ -3,4 +3,4 @@ just a quick repo test
 
 yeah yeah yeah
 
-something else
+something else is better
